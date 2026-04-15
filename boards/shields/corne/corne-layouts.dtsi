@@ -3,7 +3,7 @@
 / {
     layout_0: layout_0 {
         compatible = "zmk,physical-layout";
-        display-name = "CORNE";
+        display-name = "LAYOUT";
 
         transform = <&default_transform>;
 
